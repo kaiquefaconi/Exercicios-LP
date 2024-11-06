@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-nivelamento-variaveis-estruturas-condicionais-kaiquefaconi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-nivelamento-lacos-repeticao-e-randomicos-kaiquefaconi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-nivelamento-metodos-kaiquefaconi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-introducao-encapsulamento-kaiquefaconi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-revisao-metodos-kaiquefaconi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-introducao-relacionamento-kaiquefaconi" vcs="Git" />
+  </component>
+</project>

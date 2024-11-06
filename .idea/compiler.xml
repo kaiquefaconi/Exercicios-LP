@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="introduca-poo" />
+        <module name="revisao-metodos" />
+        <module name="template-tarefa-java (2)" />
+        <module name="template-tarefa-java (1)" />
+        <module name="revisao-listas-switch" />
+        <module name="template-tarefa-java" />
+        <module name="exemplo-lista" />
+        <module name="operacoes-matematicas" />
+        <module name="reforco-metodos" />
+        <module name="exemplo-metodos" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
